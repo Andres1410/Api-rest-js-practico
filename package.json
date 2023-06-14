@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-js-practico",
+  "version": "1.0.0",
+  "description": "consumo de API REST con js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres1410/Api-rest-js-practico.git"
+  },
+  "author": "@Felipe 😎",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andres1410/Api-rest-js-practico/issues"
+  },
+  "homepage": "https://github.com/Andres1410/Api-rest-js-practico#readme"
+}
